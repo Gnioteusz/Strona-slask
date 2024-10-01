@@ -1,5 +1,3 @@
-//index
-
 <HTML lang="pl">
 <HEAD>
  <TITLE>slask</TITLE>
