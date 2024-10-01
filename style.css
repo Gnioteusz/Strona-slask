@@ -15,4 +15,9 @@ body {
 
 #baner {
     height:  150PX;
+    background-color: black;
+}
+
+#szukaj{
+    float:left;
 }
