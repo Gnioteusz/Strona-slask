@@ -6,3 +6,19 @@
  <META charset="UTF-8">
  <LINK REL="stylesheet" TYPE="text/css" HREF="style2.css">
 </HEAD>
+<BODY>
+ <div id="structure">
+  <div id="baner"></div>
+  <nav>
+   
+  </nav>
+  <div id="container">
+     <div id="main">
+       <div id=interactive>
+        
+       </div>
+     </div>
+   <footer></footer>
+  </div>
+ </div>
+</BODY>
