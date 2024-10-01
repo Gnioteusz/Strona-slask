@@ -5,7 +5,7 @@ MySQL(Liam)
 - tabela miasta:
 	-lp int primmary
 	-miasto varchar 35 wartosc nule tak
-	-id-miasta int
+	-miasto_id int
 - tabela informacje:
 	-lp int primmary
 	-miasto varchar 35 wartosc nule tak
