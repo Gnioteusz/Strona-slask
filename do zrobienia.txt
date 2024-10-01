@@ -1,8 +1,20 @@
 //Tutaj rzeczy do zrobienia
 SQL
-  -
-  -
+MySQL(Liam)
 
-  -
-  -
+- tabela miasta:
+	-lp
+	-miasto
+	-id-miasta
+- tabela informacje:
+	-lp
+	-miasto
+	-info
+
+-Struktura:
+	
+-guziki
+-baner
+-mapa	
+
 
