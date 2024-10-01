@@ -8,17 +8,6 @@
 </HEAD>
 <BODY>
  <div id="structure">
-  <div id="baner"></div>
-  <div id="container">
-  <nav>
-   <ul>
-     <li><a href="#">test</a></li>
-     <li><a href="#">test2</a></li>
-   </ul>
-  </nav>
-  <div id="main"></div>
- </div>
-   <footer></footer>
-  </div>
+
  </div>
 </BODY>
