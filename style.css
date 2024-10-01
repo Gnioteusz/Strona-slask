@@ -13,6 +13,10 @@ body {
     flex-direction: column;
 }
 
+#structure {
+    background-color: black;
+}
+
 #baner {
     height:  150PX;
     background-color: black;
