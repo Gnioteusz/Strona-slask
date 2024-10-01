@@ -10,7 +10,10 @@
  <div id="structure">
   <div id="baner"></div>
   <nav>
-   
+   <ul>
+     <li><a href="#">test</a></li>
+     <li><a href="#">test2</a></li>
+   </ul>
   </nav>
   <div id="container">
      <div id="main">
