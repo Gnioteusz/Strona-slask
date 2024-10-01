@@ -3,13 +3,13 @@ SQL
 MySQL(Liam)
 
 - tabela miasta:
-	-lp
-	-miasto
-	-id-miasta
+	-lp int primmary
+	-miasto varchar 35 wartosc nule tak
+	-id-miasta int
 - tabela informacje:
-	-lp
-	-miasto
-	-info
+	-lp int primmary
+	-miasto varchar 35 wartosc nule tak
+	-info varchar 255 wartosc nule tak
 
 -Struktura:
 	
