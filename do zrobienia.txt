@@ -12,7 +12,10 @@ MySQL(Liam)
 	-info varchar 255 wartosc nule tak
 
 -Struktura:
-	
+	baner
+	linki
+	text
+	stopka
 -guziki
 -baner
 -mapa	
